@@ -1,23 +1,39 @@
 
-- CHÚ Ý: đây là truyện tiên hiệp, tu tiên: thế giới của người tu tiên, không phải thế giới luyện võ, tiên nhân có tiên thuật và các thần thông đặc biệt
-	+ nhân vật chính Trần Kính Huyền, nữ chính Phụng Miên
-	+ tính cách của Phụng Miên: nàng hơi lạnh lùng do đã sống quá lâu (sống không biết qua bao nhiêu đại kiếp, vô lượng kiếp), nàng là người ít nói lời yêu thương, nhưng thật lòng vẫn quan tâm hắn, mỗi cái ăn cái mặc của hắn đều do nàng giúp đỡ, nàng là người làm nhiều hơn nói (dùng hành động để chứng minh chứ không phải kẻ chỉ biết nói xuông), nàng là người trưởng thành, không phải thiếu nữ mộng mơ
-	+ tính cách của Kính Huyền: vì còn nhỏ tuổi nên ham chơi, thích phá phách, sơ hở là gây chuyện khắp nơi, gay tay họa cho tông môn, thích đồ của người ta thì chôm trước nói sau, hắn không phải người xuyên không nhưng cũng đọc khá nhiều tiểu thuyết, và muốn có hậu cung 3000 mỹ nhân, nhưng điều đó vĩnh viễn không thể nào thực hiện được, nên mới cần người như Phụng Miên quản hắn
+- CHÚ Ý: 
+	+ đây là truyện tiên hiệp, tu tiên, võ hiệp, huyền huyễn.
+	+ nơi hắn đến là thế giới của người luyện võ, tu luyện bằng cách hấp thu thiên địa huyền khí, hoặc ăn thịt yêu thú, hoặc đan dược và huyền dược.
 
 - YÊU CẦU 1: 
-	+ đây là chương nối tiếp(tiếp theo) của nội dung mà bạn tạo ra
-	+ viết lại gấp đôi nội dung mà tôi cung cấp, với 6000 chữ (khoảng 25.000 token) bang ngôn ngữ tiếng Việt, viết bám sát vào nội dung của tôi 
-	+ viết mạch lạc chữ trên xuống dưới bằng ngôn ngữ tiếng Việt, 
-	+ không phân đoạn như kịch bản, 
-	+ bỏ luôn giới thiệu phân đoạn khi viết nội dung, 
+	+ đây là chương nối tiếp(tiếp theo) của nội dung mà bạn tạo ra.
+	+ viết lại gấp đôi nội dung mà tôi cung cấp, với 6000 chữ bằng ngôn ngữ tiếng Việt, viết bám sát vào đề cương của tôi.
+	+ viết mạch lạc chữ trên xuống dưới bằng ngôn ngữ tiếng Việt.
+	+ không phân đoạn như kịch bản.
+	+ không phân đoạn như đề cương.
+	+ không phân đoạn như dàn ý.
+	+ bỏ luôn giới thiệu phân đoạn khi viết nội dung.
+	+ bỏ luôn giới thiệu phân cảnh khi viết nội dung.
 	+ bỏ luôn mấy đoạn dàn ý.
-	+ nếu có cảnh liên quan đến độ kiếp, thiên kiếp, hoặc thiên đạo, hãy miêu tả sự khủng khiếp của nó
+	+ nếu có cảnh liên quan đến độ kiếp, thiên kiếp, hoặc thiên đạo, hãy miêu tả sự khủng khiếp của nó.
+	+ chú ý: chuyển hết những từ tiếng Trung sang tiếng Việt, nếu có từ tiếng Anh thì chuyển sang Tiếng Việt.
 
 - YÊU CẦU 2: 
-	+ viết bám sát vào nội dung tôi cung cấp
-	+ mô tả chi tiết và sống động từng cảnh tượng, lời văn CHAO CHUỐT
-	+ chao chuốt lời thoại cho có sức lực
-	+ viết biểu cảm cho từng lời thoại
-	+ miêu tả chi tiết cảm xúc của từng người
-	+ miêu tả chi tiết từng thái độ của từng người
-	+ viết phần chuyển cảnh giữa các phân đoạn thật mượt mà
+	+ viết bám sát vào đề cương tôi cung cấp.
+	+ mô tả chi tiết và sống động từng cảnh tượng, lời văn CHAO CHUỐT.
+	+ chao chuốt lời thoại cho có sức lực, vì đây là truyện huyền huyễn tu tiên/võ giả.
+	+ viết biểu cảm cho từng lời thoại.
+	+ miêu tả chi tiết cảm xúc của từng người.
+	+ miêu tả chi tiết từng thái độ của từng người.
+	+ viết phần chuyển cảnh giữa các phân đoạn thật mượt mà.
+
+- YÊU CẦU 3: 
+	+ hãy thêm cảm xúc hoặc trạng thái cho mỗi lời thoại, để đọc giả biết trạng thái/cảm xúc của nhân vật ra sao, diễn giải để A.I hiểu và viết cho đúng, ví dụ: 
+		+ Vd1 => Tử Vân mỉm cười, nói: "Xin chào".
+		+ Vd2 => Tử Vân run rẩy, nói: "Ngươi... ngươi đừng đến đây."
+		+ Vd3 => Trịnh Bùi nghiến răng, nói: "Ngươi đợi đấy."
+
+- YÊU CẦU 4: 
+	- mô tả chi tiết từng cảnh, mô tả chi tiết từng hành động, mô tả chi tiết từng từng hiện tượng ngoài bầu trời, mô tả chi tiết từng từng hiệu ứng của thiên thạch tiếp xúc với Huyền Vũ Tinh, mô tả chi tiết từng âm thanh, và mô tả chi tiết từng hiệu ứng cú va chạm mà nó gây ra.
+
+- YÊU CẦU 5:
+	- Thêm lời thoại cho phong phú, thêm lời thoại nội tâm, nhưng mỗi lời thoại điều phải mô tả được trạng thái hoặc cảm xúc của nhân vật.
+	- Đổi " – " thành ", " khi tạo nội dung.
