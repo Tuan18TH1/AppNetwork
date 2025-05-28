@@ -1,0 +1,29 @@
+=> MỤC TIÊU: GIÚP TÔI "PHÂN TÍCH" VÀ "CHUẨN HÓA" [DÀN Ý] MỘT CÁCH "CHI TIẾT TỐI ĐA" BÊN DƯỚI ĐỂ BẰNG NGÔN NGỮ TIẾNG VIỆT:
+=> MỤC ĐÍCH: ĐÂY LÀ BƯỚC ĐIỆM ĐỂ A.I TẠO ĐỀ CƯƠNG CHI TIẾT BẰNG CÁCH BÁM SÁT VÀO DÀN Ý CỦA TÔI.
+=> YÊU CẦU 1: HÃY LÀM SAO ĐỂ CHỪA LẠI KHÔNG GIAN RỘNG LỚN ĐỂ A.I CÓ THỂ SÁNG TẠO
+=> YÊU CẦU 2: LÀM CHO A.I HIỂU ĐỂ TẢ CẢNH MỘT CÁCH CHI TIẾT NHẤT.
+=> YÊU CẦU 3:LÀM CHO A.I HIỂU ĐỂ TẢ NỘI TÂM MỘT CÁCH CHI TIẾT NHẤT.
+=> YÊU CẦU 4: LÀM CHO A.I HIỂU ĐỂ TẢ KHÔNG GIAN & THỜI GIAN MỘT CÁCH CHI TIẾT NHẤT.
+=> YÊU CẦU 5: LÀM CHO A.I HIỂU ĐỂ TẢ CẢM NHẬN CỦA TỪNG NHÂN VẬT MỘT CÁCH CHI TIẾT NHẤT.
+=> YÊU CẦU 6: LÀM CHO A.I HIỂU ĐỂ VIẾT ĐÚNG VỚI SỐ CHỮ MÀ TÔI YÊU CẦU.
+=> YÊU CẦU 7: LÀM CHO A.I HIỂU ĐỂ TỰ THÊM LỜI THOẠI VÀO CHO PHÙ HỢP (THÊM THOẢI MÁI).
+=> YÊU CẦU 8: GIÚP TÔI LƯỢT BỎ NHỮNG PHẦN THỪA, ĐỂ CÂU LỆNH CHẠY CHUẨN NHẤT.
+=> YÊU CẦU 9: GIÚP TÔI LÀM A.I HIỂU ĐÂY LÀ THỂ LOẠI [HUYỀN HUYỄN/TU TIÊN].
+=> YÊU CẦU 10: CHUẨN HÓA DÀN Ý THÔI, CHỨ KHÔNG PHẢI TẠO ĐỀ CƯƠNG CHI TIẾT.
+=> YÊU CẦU 11: CHÈN HỆ THỐNG TU LUYỆN (CẢNH GIỚI) CỦA VÕ GIẢ VÀ YÊU THÚ VÀO, ĐỂ LẤY CÁI ĐÓ LÀM DỮ LIỆU THAM CHIẾU.
+=> YÊU CẦU 12: LỜI THOẠI DÙNG GIỌNG VĂN CỦA TRUYỆN HUYỀN HUYỄN/TU TIÊN, ĐẬM CHẤT HUYỀN HUYỄN (đừng xưng hô tầm thường).
+=> YÊU CẦU 13: DÙ CÓ QUA CHƯƠNG MỚI THÌ VẪN GIỮ LẠI HỆ THỐNG TU LUYỆN (CẢNH GIỚI) CỦA VÕ GIẢ VÀ YÊU THÚ VÀO, ĐỂ LẤY CÁI ĐÓ LÀM DỮ LIỆU THAM CHIẾU (PHÒNG HỜ TÔI KHÔNG DÙNG CHUNG KHUNG CHAT).
+=> YÊU CẦU 14: BỎ CHỮ "THƯA" RA KHỎI LỜI THOẠI KHI NÓI CHUYỆN, CHỮ "THƯA" KHI NÓI CHUYỆN KHÔNG PHÙ HỢP VỚI THỂ LOẠI NÀY.
+
+
+- CHÚ Ý: đây là truyện võ đạo, huyền huyễn, tu tiên.
+- YÊU CẦU 15: 
+	+ viết dàn ý bám sát vào dữ liệu tôi cung cấp.
+	+ nếu có cảnh liên quan đến độ kiếp, thiên kiếp, hoặc thiên đạo, hãy miêu tả sự khủng khiếp của nó thông qua dàn ý.
+	+ dàn ý chi tiết và sống động từng cảnh tượng, lời văn CHAO CHUỐT.
+	+ chao chuốt lời thoại cho có sức lực.
+	+ viết biểu cảm cho từng lời thoại.
+	+ miêu tả chi tiết cảm xúc của từng người.
+	+ miêu tả chi tiết từng thái độ của từng người.
+	+ viết phần chuyển cảnh giữa các phân đoạn thật mượt mà.
+
