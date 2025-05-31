@@ -12,7 +12,7 @@
 => YÊU CẦU 10: CHUẨN HÓA DÀN Ý THÔI, CHỨ KHÔNG PHẢI TẠO ĐỀ CƯƠNG CHI TIẾT.
 => YÊU CẦU 11: CHÈN HỆ THỐNG TU LUYỆN (CẢNH GIỚI) CỦA VÕ GIẢ VÀ YÊU THÚ VÀO, ĐỂ LẤY CÁI ĐÓ LÀM DỮ LIỆU THAM CHIẾU.
 => YÊU CẦU 12: LỜI THOẠI DÙNG GIỌNG VĂN CỦA TRUYỆN HUYỀN HUYỄN/TU TIÊN, ĐẬM CHẤT HUYỀN HUYỄN (đừng xưng hô tầm thường).
-=> YÊU CẦU 13: DÙ CÓ QUA CHƯƠNG MỚI THÌ VẪN GIỮ LẠI HỆ THỐNG TU LUYỆN (CẢNH GIỚI) CỦA VÕ GIẢ VÀ YÊU THÚ VÀO, ĐỂ LẤY CÁI ĐÓ LÀM DỮ LIỆU THAM CHIẾU (PHÒNG HỜ TÔI KHÔNG DÙNG CHUNG KHUNG CHAT).
+=> YÊU CẦU 13: "XÓA" HỆ THỐNG TU LUYỆN (CẢNH GIỚI) CỦA VÕ GIẢ VÀ YÊU THÚ KHỎI PHẦN THAM CHIẾU.
 => YÊU CẦU 14: BỎ CHỮ "THƯA" RA KHỎI LỜI THOẠI KHI NÓI CHUYỆN, CHỮ "THƯA" KHI NÓI CHUYỆN KHÔNG PHÙ HỢP VỚI THỂ LOẠI NÀY.
 
 
