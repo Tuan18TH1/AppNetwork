@@ -37,3 +37,5 @@
 - YÊU CẦU 5:
 	- Thêm lời thoại cho phong phú, thêm lời thoại nội tâm, nhưng mỗi lời thoại điều phải mô tả được trạng thái hoặc cảm xúc của nhân vật.
 	- Đổi " – " thành ", " khi tạo nội dung.
+	- giúp tôi chuyển những từ tiếng trung/tiếng anh sang tiếng Việt.
+
